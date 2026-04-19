@@ -30,4 +30,4 @@ This project provides a practical tool for downloading videos and shows my abili
 ---
 
 ## 📸 Preview
-![App Screenshot](app.png)
+![App Screenshot](video-downloader.png)
